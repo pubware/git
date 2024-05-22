@@ -2,8 +2,6 @@
 
 The `git` plugin is responsible for committing and pushing changes to a remote repository.
 
-Used internally with [packpub](https://github.com/packpub/packpub).
-
 ## Props
 
 | Prop          | Type    | Description                                   |
